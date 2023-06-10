@@ -12,7 +12,8 @@
   "rules": {
     "no-console": "off",
     "comma-dangle": "off",
-    "linebreak-style": ["error", "windows"],
-
+    "semi": "off",
+    "linebreak-style": "off",
+    "no-underscore-dangle": "off"
   }
 }
